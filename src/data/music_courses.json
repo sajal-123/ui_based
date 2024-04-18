@@ -1,0 +1,105 @@
+{
+    "courses":[
+        {
+          "id": 1,
+          "title": "Guitar Basics",
+          "slug": "guitar-basics",
+          "description": "Learn the fundamentals of playing the guitar, including chords, strumming patterns, and basic music theory.",
+          "price": 49.99,
+          "instructor": "John Smith",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 2,
+          "title": "Piano Masterclass",
+          "slug": "piano-masterclass",
+          "description": "Take your piano skills to the next level with advanced techniques, improvisation, and performance tips.",
+          "price": 79.99,
+          "instructor": "Emily Johnson",
+          "isFeatured": false,
+          "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 3,
+          "title": "Music Theory 101",
+          "slug": "music-theory-101",
+          "description": "Understand the basics of music theory, including notes, scales, intervals, and chord progressions.",
+          "price": 29.99,
+          "instructor": "Michael Brown",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/file-1636576776643-80d394b7be57image?dpr=2&w=416&auto=format&fit=crop&q=60"
+        },
+        {
+          "id": 4,
+          "title": "Drum Techniques Workshop",
+          "slug": "drum-techniques-workshop",
+          "description": "Improve your drumming skills with expert techniques, rhythm patterns, and groove variations.",
+          "price": 59.99,
+          "instructor": "Sarah Davis",
+          "isFeatured": false,
+          "image": "https://plus.unsplash.com/premium_photo-1682787494977-d013bb5a8773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 5,
+          "title": "Singing for Beginners",
+          "slug": "singing-for-beginners",
+          "description": "Discover your voice and learn basic vocal techniques, breathing exercises, and vocal warm-ups.",
+          "price": 39.99,
+          "instructor": "David Wilson",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 6,
+          "title": "Music Production Essentials",
+          "slug": "music-production-essentials",
+          "description": "Explore the essentials of music production, including recording, editing, mixing, and mastering.",
+          "price": 69.99,
+          "instructor": "Jessica Clark",
+          "isFeatured": false,
+          "image": "https://plus.unsplash.com/premium_photo-1661573007944-47dbec396806?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 7,
+          "title": "Bass Guitar Fundamentals",
+          "slug": "bass-guitar-fundamentals",
+          "description": "Master the basics of playing bass guitar, including techniques, scales, and bassline creation.",
+          "price": 54.99,
+          "instructor": "Matthew Green",
+          "isFeatured": true,
+          "image": "https://plus.unsplash.com/premium_photo-1681248156500-8f209e8e466e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvdXJzZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+          "id": 8,
+          "title": "Songwriting Workshop",
+          "slug": "songwriting-workshop",
+          "description": "Learn the art of songwriting, including lyrics, melody creation, song structure, and storytelling.",
+          "price": 44.99,
+          "instructor": "Rachel Adams",
+          "isFeatured": false,
+          "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNvdXJzZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+          "id": 9,
+          "title": "Jazz Piano Improvisation",
+          "slug": "jazz-piano-improvisation",
+          "description": "Improvise like a jazz pro with advanced piano techniques, jazz scales, and improvisational patterns.",
+          "price": 89.99,
+          "instructor": "Daniel White",
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291cnNlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 10,
+          "title": "Music Marketing Strategies",
+          "slug": "music-marketing-strategies",
+          "description": "Learn effective marketing strategies for musicians, including branding, social media, and promotion.",
+          "price": 34.99,
+          "instructor": "Olivia Roberts",
+          "isFeatured": false,
+          "image": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y291cnNlfGVufDB8fDB8fHww"
+        }
+      ]
+    }
+  
